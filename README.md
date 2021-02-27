@@ -11,7 +11,7 @@
 | Whore house  | A house of prostitutes                                   | The house where someone goes to be unfaithful to their partner. |
 | Coffee       | Socially accepted upper                                  | Drug |
 | Racism       | There are several races of the human race.               | There is the human race; there are people with brighter and darker skin complexion, smaller and larger features. |
-| Democracy    | Voting for a party                                       | Giving away your vote for n years at the time to total strangers. |
+| Democracy    | Your vote has been heard                                 | Giving away your vote for n years at the time to total strangers. |
 | State        | An entity in the government.                             | You and I |
 | Goverment    | An entity in the state.                                  | You and I |
 | Perversion   | Something explicitly sexual                              | Something exaggerated, preferebly in a sexual way. |
